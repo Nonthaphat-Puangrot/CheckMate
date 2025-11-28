@@ -1,6 +1,6 @@
 # CheckMate
 
-An intelligent attendance checking system that combines facial recognition and fingerprint scanning for secure and automated student identification.
+An attendance checking system that combines facial recognition and fingerprint scanning for secure and automated student identification.
 
 ![CheckMate Logo](Resource/checkmate_new_dark_logo.png)
 
