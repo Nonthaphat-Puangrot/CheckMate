@@ -1,0 +1,71 @@
+# Firebase Service Account Key (SENSITIVE - DO NOT COMMIT)
+serviceAccountKey.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Encoded face data files
+*.p
+Encodefile.p
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files (attendance logs with personal data)
+output/
+*.csv
+localDB.csv
+
+# Personal photos and images (privacy protection)
+Photo/*.png
+Photo/*.jpg
+Photo/*.jpeg
+!Photo/.gitkeep
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
